@@ -22,7 +22,7 @@ Voordat je het project kunt uitvoeren, zorg ervoor dat je het volgende hebt geï
 
 ### Installatie
 
-1. Kloon de repository naar je lokale machine: git clone <repository-url>
+1. Kloon de repository naar je lokale machine: git clone <https://github.com/ThatssoBryana/bw-nodejs-project>
 2. Navigeer naar de projectdirectory: cd BW-nodejs-project
 3. Installeer de afhankelijkheden: npm install
 4. Configureer je MySQL-database en update de `sequelize`-configuratie in `server.js` met je databasegegevens.
